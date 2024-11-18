@@ -60,11 +60,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-caron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="thibault-caron" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibault-caron&show_icons=true&locale=en&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="thibault-caron" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&locale=en&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="thibault-caron" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="thibault-caron" /></p>
+<!-- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&" alt="thibault-caron" /></p>
+-->
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
