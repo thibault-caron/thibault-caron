@@ -30,7 +30,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 </a>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&" alt="Thibault's GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Thibault's GitHub Stats" />
 </a>
 
 ---
@@ -43,7 +43,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 </a>
 
 <a href="https://github.com/abadyr/abadyr">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abadyr&" alt="Thibault's GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abadyr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Thibault's GitHub Stats" />
 </a>
 
 <!--
@@ -59,11 +59,11 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibault-caron&label=Profile%20views&color=0e75b6&style=flat" alt="thibault-caron" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-caron" alt="thibault-caron" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-caron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="thibault-caron" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibault-caron&show_icons=true&locale=en&layout=compact" alt="thibault-caron" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&locale=en" alt="thibault-caron" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&locale=en" alt="thibault-caron" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&" alt="thibault-caron" /></p>
 
