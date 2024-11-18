@@ -22,7 +22,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/thibault-caron/thibault-caron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-caron&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-caron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
@@ -35,7 +35,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 
 ---
 <a href="https://github.com/abadyr/abadyr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abadyr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abadyr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/abadyr/abadyr">
@@ -55,6 +55,17 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 -->
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thibault-caron&label=Profile%20views&color=0e75b6&style=flat" alt="thibault-caron" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-caron" alt="thibault-caron" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thibault-caron&show_icons=true&locale=en&layout=compact" alt="thibault-caron" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&locale=en" alt="thibault-caron" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&" alt="thibault-caron" /></p>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
