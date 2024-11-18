@@ -14,6 +14,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 
 [![Static Badge](https://img.shields.io/badge/Code-Python-Informational?style=flat&logo=python&logoColor=white&color=yellow)](#)
 [![Static Badge](https://img.shields.io/badge/Code-Html5-Informational?style=flat&logo=html5&logoColor=white&color=orange)](#)
+[![Static Badge](https://img.shields.io/badge/Code-Css3-Informational?style=flat&logo=css3&logoColor=white&color=blue)](#)
 [![Static Badge](https://img.shields.io/badge/Code-C%23-Informational?style=flat&logoColor=white&color=%23823298)](#)
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/C%23-%23823298.svg?logo=cshrp&logoColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/Tools-DotNet-Informational?style=flat&logo=dotnet&logoColor=white&color=%23512BD4)](#)
@@ -28,7 +29,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 </a>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&lang=eng&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's GitHub Stats" />
 </a>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
@@ -41,7 +42,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 </a>
 
 <a href="https://github.com/abadyr/abadyr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abadyr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's primary account GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abadyr&show_icons=true&line_height=27&lang=eng&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's primary account GitHub Stats" />
 </a>
 
 <a href="https://github.com/abadyr/abadyr">
@@ -57,12 +58,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 -->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="thibault-caron" /></p>
-
-<a href="https://github.com/thibault-caron/thibault-caron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&lang=eng&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's GitHub Stats" />
-</a>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thibault-caron&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="thibault-caron" /></a> </p>
