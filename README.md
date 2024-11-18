@@ -13,6 +13,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 [![Static Badge](https://img.shields.io/badge/Code-Python-Informational?style=flat&logo=python&logoColor=white&color=yellow)](#)
 [![Static Badge](https://img.shields.io/badge/Code-Html5-Informational?style=flat&logo=html5&logoColor=white&color=orange)](#)
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/Code-C#-Informational?style=flat&logo=cshrp&logoColor=white&color=purple)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logoColor=white)](#)
 [![Static Badge](https://img.shields.io/badge/Tools-DotNet-Informational?style=flat&logo=dotnet&logoColor=white&color=%23512BD4)](#)
 
