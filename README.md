@@ -30,20 +30,20 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 </a>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron" alt="Thibault's GitHub Stats" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&" alt="Thibault's GitHub Stats" />
 </a>
 
 ---
-<a href="https://github.com/thibault-caron/abadyr">
+<a href="https://github.com/abadyr/abadyr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abadyr&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-<a href="https://github.com/thibault-caron/abadyr">
+<a href="https://github.com/abadyr/abadyr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abadyr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's primary account GitHub Stats" />
 </a>
 
-<a href="https://github.com/thibault-caron/abadyr">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abadyr" alt="Thibault's GitHub Stats" />
+<a href="https://github.com/abadyr/abadyr">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abadyr&" alt="Thibault's GitHub Stats" />
 </a>
 
 <!--
