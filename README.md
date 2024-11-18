@@ -61,7 +61,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/thibault-caron-b848b66
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="thibault-caron" /></p>
 
 <a href="https://github.com/thibault-caron/thibault-caron">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&line_height=27&lang=eng&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Thibault's GitHub Stats" />
 </a>
 
 <!--
