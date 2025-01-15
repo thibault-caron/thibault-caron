@@ -21,8 +21,9 @@ I'm currently looking for a work-study placement in software development.
 [![Static Badge](https://img.shields.io/badge/Code-Html5-Informational?style=flat&logo=html5&logoColor=white&color=orange)](#)
 [![Static Badge](https://img.shields.io/badge/Code-Css3-Informational?style=flat&logo=css3&logoColor=white&color=blue)](#)
 [![Static Badge](https://img.shields.io/badge/Code-JavaScript-Informational?style=flat&logo=jscript&logoColor=white&color=yellow)](#)
-[![Static Badge](https://img.shields.io/badge/Code-C%23-Informational?style=flat&logoColor=white&color=%23823298)](#)
+[![Static Badge](https://img.shields.io/badge/Code-C%23-Informational?style=flat&logo=csharp&logoColor=white&color=%23823298)](#)
 [![Static Badge](https://img.shields.io/badge/Tools-DotNet-Informational?style=flat&logo=dotnet&logoColor=white&color=%23512BD4)](#)
+[![Static Badge](https://img.shields.io/badge/Code-Rust-Informational?style=flat&logo=rust&logoColor=white&color=orange)](#)
 
 <!--
 [![Static Badge](https://custom-icon-badges.demolab.com/badge/C%23-%23823298.svg?logo=cshrp&logoColor=white)](#)
