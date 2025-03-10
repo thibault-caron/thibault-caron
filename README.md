@@ -33,6 +33,7 @@ I'm currently looking for a work-study placement in software development.
 [![Stats GitHub](https://github-readme-stats.vercel.app/api?username=thibault-caron&show_icons=true&theme=radical)](#)
 [![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=thibault-caron&layout=compact&theme=radical)](#)
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=thibault-caron&layout=compact&theme=radical)](#)
+
 ---
 
 [![Stats GitHub](https://github-readme-stats.vercel.app/api?username=abadyr&show_icons=true&theme=radical)](#)
